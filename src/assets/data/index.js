@@ -23,18 +23,6 @@ export const comptencesData = [
 
 export const projectsData = [
     {
-        title : "gci" ,
-        pic : "./assets/pics/test.JPG",
-        technos : ["React" , "Spring boot" , "PostgreSQL"], 
-        description : "This web application register all the depenses on a construction and give stats on it .A user have the possibility to have a global view of all his projects ."
-    },
-    {
-        title : "gcv" ,
-        pic : "./assets/pics/test.JPG",
-        technos : ["Java Swing" , "mySQL"], 
-        description : "A desktop app realized with Java Swing , it has the functionnality to manage the benefit from your own transport company . It has stats by car , by driver . A very useful app !"
-    },
-    {
         title : "DO APP" ,
         pic : "./assets/pics/test.JPG",
         technos : ["React" , "Nest js" , "Mongo DB" , "Socket"], 
@@ -57,5 +45,17 @@ export const projectsData = [
         pic : "./assets/pics/test.JPG",
         technos : ["React js" , "Php api" , "MySQL"], 
         description : "This web project manage the school fee of students . We can see there if a student have already given his total fee or not . "
+    } ,
+    {
+        title : "Construction app" ,
+        pic : "./assets/pics/test.JPG",
+        technos : ["React" , "Spring boot" , "PostgreSQL"], 
+        description : "This web application register all the depenses on a construction and give stats on it .A user have the possibility to have a global view of all his projects ."
+    },
+    {
+        title : "Drivers Management" ,
+        pic : "./assets/pics/test.JPG",
+        technos : ["Java Swing" , "mySQL"], 
+        description : "A desktop app realized with Java Swing , it has the functionnality to manage the benefit from your own transport company . It has stats by car , by driver . A very useful app !"
     }
 ]

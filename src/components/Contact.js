@@ -27,22 +27,22 @@ const Contact = (props) => {
                 </div>
             </div>
             <div className='flex justify-center items-center text-blue-500'>
-                <a href="" className='mr-2'>
+                <a href="https://www.facebook.com/fitiavana.andriaherilanto" target="_blank" className='mr-2'>
                     <button className='text-white p-3 rounded-full text-4xl bg-blue-500 flex justify-center items-center '>
                         <FacebookOutlined/>
                     </button>
                 </a>
-                <a href="" className='mr-2'>
+                <a href="https://www.github.com/fitiavana7" target="_blank" className='mr-2'>
                     <button className='text-white p-3 rounded-full text-4xl bg-blue-500 flex justify-center items-center '>
                         <GithubOutlined/>
                     </button>
                 </a>
-                <a href="" className='mr-2'>
+                <a href="https://www.linkedin.com/in/fitiavana-andriaherilanto" target="_blank" className='mr-2'>
                     <button className='text-white p-3 rounded-full text-4xl bg-blue-500 flex justify-center items-center '>
                         <LinkedinOutlined/>
                     </button>
                 </a>
-                <a href="">
+                <a href="https://ainaandriaherilanto@gmail.com" target="_blank">
                     <button className='text-white p-3 rounded-full text-4xl bg-blue-500 flex justify-center items-center '>
                         <GoogleOutlined/>
                     </button>

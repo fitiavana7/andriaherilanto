@@ -8,7 +8,7 @@ const Navigation = (props) => {
                 {"<"} FITIAVANA {"/>"}
             </div>
             <div>
-                <a href="">
+                <a href="tel:0343244694">
                     <button className='py-1 px-2 rounded-sm bg-blue-500 flex justify-center items-center text-base'>
                         <PhoneOutlined/> <span className='ml-1 hidden sm:block'>contact me</span>
                     </button>

@@ -9,8 +9,8 @@ const Profile = (props) => {
                     <p className='text-3xl font-bold text-blue-500'>FITIAVANA</p>
                     <p className='text-justify'>
                         Fitiavana Aina Andriaherilanto , known as Fitiavana . I'm a fullstack developper and data scientist , student at <a href="" className='italic'>EMIT Fianarantsoa</a> .
-                        I'm specialized on MERN stack developping , but i can developp on different language . As for now , i'm learning AI developping to enhance my perfomance and give more 
-                        options to my clients . My high competence in IT , such as knowledge of System and Network , Machine learning help me more on my developpments .
+                        I'm specialized on MERN stack developping , but i can developp on different language . As for now , i'm learning AI development to enhance my perfomance and give more 
+                        options to my clients . My high competence in IT , such as knowledge of System and Network , Machine learning help me more on my developments .
                         Explorating data using python and his library too is one of my competences . 
                     </p>
                 </div>

@@ -21,8 +21,8 @@ const Portfolio = (props) => {
                     projects.map((e,index)=>
                 <div key={index} className='bg-slate-50 rounded-sm text-black p-4'>
                     <img src={e.pic} alt="project pic" className='rounded-sm' />
-                    <div className='w-full mt-3 text-3xl font-bold text-blue-500'>{e.title.toLocaleUpperCase()}</div>
-                    <p className='font-bold text-xl mb-4'>
+                    <div className='w-full mt-3 text-2xl font-bold text-blue-500'>{e.title.toLocaleUpperCase()}</div>
+                    <p className='font-bold text-lg mb-4'>
                     {e.technos.map((elt,index)=>
                             <>{index != e.technos.length-1 ? elt + " , " : elt}</>
                         )} </p>
@@ -30,7 +30,7 @@ const Portfolio = (props) => {
                     {e.description}
                    </p>
                     <div className='flex justify-end items-center py-2'>
-                        <a href="">
+                        <a href="https://www.github.com/fitiavana7" target="_blank">
                             <button className='py-1 px-2 rounded-sm text-white bg-blue-500 flex justify-center items-center text-base'>
                                 <EyeOutlined/> <span className='ml-1'>view</span>
                             </button>
