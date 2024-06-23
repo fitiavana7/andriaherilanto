@@ -13,7 +13,7 @@ const Portfolio = (props) => {
             <div className='p-2 text-white'>
                 <p className='text-justify'>
                 These are my projects i've done . These aren't yet deployed but i still try to find solutions to host it . 
-                Projects done from my internship aren't there because it belogn to the company . I've done Website , Desktop App . 
+                Projects done from my internship aren't there because it belongs to the company . I've done Website , Desktop App , Mobile App . 
                 </p>            
             </div>
             <div className='grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 my-10'>

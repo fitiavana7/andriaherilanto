@@ -13,7 +13,7 @@ const Home = (props) => {
                     <p className='text-2xl mt-1'>DATA SCIENTIST</p> 
                 </div>
                 <div className='mt-3'>
-                    <a href="">
+                    <a href="./assets/pdf/fitiavana3.0.pdf" target="_blank">
                         <button className='py-2 px-2 rounded-sm bg-blue-500 flex justify-center items-center text-base'>
                             <FilePdfOutlined /> <span className='ml-1'>download my cv</span>
                         </button>

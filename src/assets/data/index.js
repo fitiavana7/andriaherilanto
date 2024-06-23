@@ -29,11 +29,23 @@ export const projectsData = [
         description : "My task in this projects was to implement the tracking functionnality . This is like the tracking of Ora who knows the time passed by developpers on a task . I haven't the source code :'( , it belongs to the company ."
     },
     {
-        title : "G-SCOOT" ,
+        title : "Construction app" ,
         pic : "./assets/pics/test.JPG",
-        technos : ["Laravel" , "MySQL"], 
-        description : "This project register historic of reparations in a garage . Useful for life , and in goal of digitalisation . "
+        technos : ["React" , "Typescript" , "Spring boot" , "PostgreSQL"], 
+        description : "This web application register all the depenses on a construction and give stats on it .A user have the possibility to have a global view of all his projects ."
     },
+    {
+        title : "School fee" ,
+        pic : "./assets/pics/test.JPG",
+        technos : ["React" , "Php api" , "MySQL"], 
+        description : "This web project manage the school fee of students . We can see there if a student have already given his total fee or not . "
+    } ,
+    {
+        title : "Budget management" ,
+        pic : "./assets/pics/test.JPG",
+        technos : ["React Native" , "Typescript" ], 
+        description : "This mobile application coded with react native expo is for budget management. It helps to follow your depenses and income .  "
+    } ,
     {
         title : "Ora beta" ,
         pic : "./assets/pics/test.JPG",
@@ -41,16 +53,10 @@ export const projectsData = [
         description : "An app for project manager . It make task distribution easy , and each task has its status that the project manager define ."
     },
     {
-        title : "School fee" ,
+        title : "G-SCOOT" ,
         pic : "./assets/pics/test.JPG",
-        technos : ["React js" , "Php api" , "MySQL"], 
-        description : "This web project manage the school fee of students . We can see there if a student have already given his total fee or not . "
-    } ,
-    {
-        title : "Construction app" ,
-        pic : "./assets/pics/test.JPG",
-        technos : ["React" , "Spring boot" , "PostgreSQL"], 
-        description : "This web application register all the depenses on a construction and give stats on it .A user have the possibility to have a global view of all his projects ."
+        technos : ["Laravel" , "MySQL"], 
+        description : "This project register historic of reparations in a garage . Useful for life , and in goal of digitalisation . "
     },
     {
         title : "Drivers Management" ,
