@@ -1,7 +1,7 @@
 export const comptencesData = [
     {
         title : "frontend development" ,
-        list : [ "React" , "Next js" , "Angular" , "JSP"]
+        list : [ "React" , "Next js", "Gatsby", "Angular" , "JSP"]
     },
     {
         title : "backend development" ,

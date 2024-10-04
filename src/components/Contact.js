@@ -14,7 +14,7 @@ const Contact = (props) => {
                 <div className='py-10'>
                     <div className='flex justify-start items-center'>
                         <span className='w-10 h-10 flex justify-center mr-2 items-center border border-white p-2 text-lg rounded-full'><HomeOutlined/></span>
-                        <span className='text-xl'>Fianarantsoa , Madagascar</span>
+                        <span className='text-xl'>Antananarivo , Madagascar</span>
                     </div>
                     <div className='flex justify-start my-5 items-center'>
                         <span className='w-10 h-10 flex justify-center mr-2 items-center border border-white p-2 text-lg rounded-full'><PhoneOutlined/></span>
